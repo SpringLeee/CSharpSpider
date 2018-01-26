@@ -1,0 +1,8 @@
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.exe.config
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.exe
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.pdb
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\obj\Debug\AngleSharp.exe
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\obj\Debug\AngleSharp.pdb
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.dll
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.xml
+E:\Lee\Net\Swiper\AngleSharp\AngleSharp\obj\Debug\AngleSharp.csprojResolveAssemblyReference.cache
