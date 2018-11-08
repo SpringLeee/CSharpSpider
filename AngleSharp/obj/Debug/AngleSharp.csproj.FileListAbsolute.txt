@@ -6,3 +6,13 @@ E:\Lee\Net\Swiper\AngleSharp\AngleSharp\obj\Debug\AngleSharp.pdb
 E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.dll
 E:\Lee\Net\Swiper\AngleSharp\AngleSharp\bin\Debug\AngleSharp.xml
 E:\Lee\Net\Swiper\AngleSharp\AngleSharp\obj\Debug\AngleSharp.csprojResolveAssemblyReference.cache
+E:\Spring\CSharpSpider\AngleSharp\bin\Debug\AngleSharp.exe.config
+E:\Spring\CSharpSpider\AngleSharp\bin\Debug\AngleSharp.exe
+E:\Spring\CSharpSpider\AngleSharp\bin\Debug\AngleSharp.pdb
+E:\Spring\CSharpSpider\AngleSharp\bin\Debug\AngleSharp.dll
+E:\Spring\CSharpSpider\AngleSharp\bin\Debug\AngleSharp.xml
+E:\Spring\CSharpSpider\AngleSharp\obj\Debug\AngleSharp.csprojAssemblyReference.cache
+E:\Spring\CSharpSpider\AngleSharp\obj\Debug\AngleSharp.csproj.CoreCompileInputs.cache
+E:\Spring\CSharpSpider\AngleSharp\obj\Debug\AngleSharp.csproj.CopyComplete
+E:\Spring\CSharpSpider\AngleSharp\obj\Debug\AngleSharp.exe
+E:\Spring\CSharpSpider\AngleSharp\obj\Debug\AngleSharp.pdb
